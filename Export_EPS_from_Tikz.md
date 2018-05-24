@@ -42,7 +42,7 @@ ps2eps "\image.ps"}}
 ```
 * Compile it with `latex --shell-escape filename.tex`
 
-## For Window with MikTeX
+## For Windows with MikTeX
 * MikTeX uses a `-enable-write18` instead of `--shell-escape`. So tell TikZ about it by adding `\tikzexternalize[shell escape=-enable-write18]`: 
 ```latex
 \documentclass{article}
