@@ -6,5 +6,6 @@
 
 ## 2. Installation & Configurations
 * Install Tex2img
-* Install IguanaTex
+* Install IguanaTex & active the macro. New tab "IguanaTex" will appear on PowerPoint
+
 
