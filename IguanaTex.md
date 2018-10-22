@@ -10,5 +10,5 @@
 * Configure IguanaTex as follow: 
 
    ![](https://github.com/ledihdug/Howto/blob/master/data/Setting.JPG)
-
+* Using vector helps increase the quality of picture when convert .pptx file to .pdf and .eps afterwards.
 
