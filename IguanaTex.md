@@ -2,3 +2,9 @@
 ## 1. Preparation
 * [TeX2img](https://github.com/abenori/TeX2img)
 * [IguanaTex](http://www.jonathanleroux.org/software/iguanatex/)
+* Microsoft PowerPoint
+
+## 2. Installation & Configurations
+* Install Tex2img
+* Install IguanaTex
+
