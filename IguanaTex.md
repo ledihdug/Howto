@@ -7,7 +7,7 @@
 ## 2. Installation & Configurations
 * Install Tex2img.
 * Install IguanaTex & active the macro. New tab "IguanaTex" will appear on PowerPoint.
-* Configure IguanaTex as follow: 
-![alt text](https://github.com/ledihdug/Howto/blob/master/data/Setting.JPG "Logo Title Text 1")
+* Configure IguanaTex as follow: \\
+    (https://github.com/ledihdug/Howto/blob/master/data/Setting.JPG )
 
 
